@@ -1,15 +1,15 @@
 {
-    "name": "Code Stitch Web Designs",
-    "email": "help@codestitch.app",
-    "phoneForTel": "555-779-4407",
-    "phoneFormatted": "(555) 779-4407",
+    "name": "Terra Luna Limited",
+    "email": "terralunalimited@gmail.com",
+    "phoneForTel": "949-412-6720",
+    "phoneFormatted": "(949) 412-6720",
     "address": {
-        "lineOne": "First Address Line",
-        "lineTwo": "Second Address Line",
-        "city": "Denver",
+        "lineOne": "Olde Town's",
+        "lineTwo": "Farmer's Market",
+        "city": "Arvada",
         "state": "CO",
-        "zip": "80206",
-        "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
+        "zip": "80003",
+        "mapLink": "https://maps.app.goo.gl/g6ihdWTJAwvQ2e5K7"
     },
-    "domain": "https://www.codestitch.app"
+    "domain": "https://www.terralunalimited.com"
 }
