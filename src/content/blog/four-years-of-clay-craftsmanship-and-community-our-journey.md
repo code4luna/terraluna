@@ -1,7 +1,7 @@
 ---
 title: "Four Years of Clay, Craftsmanship, and Community: Our Journey"
 description: First Blog Post
-author: Terra Luna Limites
+author: Terra Luna Limited
 date: 2024-04-07T13:08:00.000Z
 tags:
   - post
